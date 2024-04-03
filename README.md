@@ -1,0 +1,1 @@
+# ts-eslint-svelte-bug
